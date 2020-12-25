@@ -1,0 +1,1 @@
+![Book Cover](https://raw.githubusercontent.com/zuramai/learn-machine-learning/main/book_cover.jpg)
